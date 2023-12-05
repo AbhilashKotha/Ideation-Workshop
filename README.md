@@ -28,13 +28,15 @@ After the empathy stage, I gave them a plan of how I want to implement the plan 
 
 We used sticky notes for mind mapping but on a digital board to ideate. We wanted to keep it simple so each person had to write only the important piece of information that they would like to convey. Other information was orally discussed and everyone took notes on what they would want to improve. For my idea, I got a suggestion of adding interactivity to the website. But there are accessibility concerns, so the blend of the two with a balance would make it better. 
 
+<img width="468" alt="image" src="https://github.com/AbhilashKotha/Ideation-Workshop/assets/113061137/bbc27ce4-a213-474b-a2cd-7cc1b864f3c2">
+
+
 ## Prototyping Stage
 
 We have used multiple online examples to see how we want to build the website. Here are a few screenshots of how I plan to build the website. 
 
-image--
+<img width="468" alt="image" src="https://github.com/AbhilashKotha/Ideation-Workshop/assets/113061137/d9fcfaca-0d41-4a2d-842d-49cb74a3a270">
 
-image-- 
 
 ## Feedback and Iteration
 
@@ -53,3 +55,5 @@ Though I had experience as a Facilitator, this was a different environment and h
 For Rakesh's and Harsha's projects, I gave my ideas to make the application look better and more responsive. 
 
 Overall this workshop was a very useful one and gave me a great experience.
+
+<img width="468" alt="image" src="https://github.com/AbhilashKotha/Ideation-Workshop/assets/113061137/57dca920-d877-482f-a486-ef85d6df644b">
